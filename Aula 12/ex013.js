@@ -1,4 +1,4 @@
-var agora = new Date()
+var agora = new Date()//utilizando switch e case
 var diaSem = agora.getDay()
 switch ( diaSem){
     case 0:
